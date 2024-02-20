@@ -1,0 +1,7 @@
+#1 receber o valor em reais
+#2 armazenar este valor em uma variavel
+#3 obter o valor da cotacao
+#4 armazenar o valor em uma variavel
+#5 multiplicar o valor em reais pelo valor da cotacao
+#6 retornar o valor da resposta
+
